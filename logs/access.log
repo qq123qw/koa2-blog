@@ -1,0 +1,2 @@
+::1 - - [12/Aug/2020:12:58:14 +0000] "GET /api/blog/list HTTP/1.1" 500 2105 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+::1 - - [12/Aug/2020:12:58:14 +0000] "GET /favicon.ico HTTP/1.1" 404 9 "http://localhost:8000/api/blog/list" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
